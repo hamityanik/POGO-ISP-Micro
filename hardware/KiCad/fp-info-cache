@@ -1,0 +1,57 @@
+11843360181112
+footprints
+2x6_idc_box_header_pcb_side_mount
+
+
+0
+6
+6
+footprints
+LED_0805
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+footprints
+POGO_ISP
+
+
+0
+66
+6
+footprints
+PTS810_tactile_push_button
+http://www.ck-components.com/80183/pts810_4mar13.pdf
+tact, switch
+0
+4
+2
+footprints
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+footprints
+SJ_OPEN
+<b>Solder jumper</b>
+
+0
+2
+2
+footprints
+Via_0.3mm
+
+
+0
+1
+1
+footprints
+Via_0.4mm
+
+
+0
+1
+1

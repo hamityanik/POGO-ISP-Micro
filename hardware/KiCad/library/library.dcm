@@ -1,0 +1,34 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_01X06
+D Connector 01x06
+$ENDCMP
+#
+$CMP CONN_02X03
+D Connector 02x03
+$ENDCMP
+#
+$CMP Jumper_NO_Small
+D Jumper normally open
+K Jumper, Link
+$ENDCMP
+#
+$CMP Led_Small
+D Led
+$ENDCMP
+#
+$CMP R_Small
+D Resistor
+$ENDCMP
+#
+$CMP SN74AUP1G80
+D LOW-POWER SINGLE POSITIVE-EDGE-TRIGGERED D-TYPE FLIP-FLOP
+F http://www.ti.com/lit/ds/symlink/sn74aup1g80.pdf
+$ENDCMP
+#
+$CMP TPS3839
+D 150-nA, Ultralow Power, Supply Voltage Monitor
+F http://www.ti.com/lit/ds/symlink/tps3839.pdf
+$ENDCMP
+#
+#End Doc Library
